@@ -49,10 +49,9 @@ This repository contains the MATLAB simulations and analysis for a project on co
 - Simulate and show that the closed-loop system demonstrates the typical properties of an Input-to-State Stable (ISS) system.
 
 ## Files Included
-- **cw2_1.m**: Basic PD feedback control simulation.
-- **cw2_2.m**: ISS disproving through destabilizing input.
-- **cw2_3.m**: Nonlinear control with square wave inputs for testing ISS.
-- **PDF files**: Full description of the problem, theoretical analysis, and derivations.
+- **Ex1.m**: Basic PD feedback control simulation.
+- **Ex2.m**: ISS disproving through destabilizing input.
+- **Ex3.m**: Nonlinear control with square wave inputs for testing ISS.
 
 ## How to Run
 1. Download the `.m` files.
