@@ -1,7 +1,7 @@
 # Non-Linear-Systems-Stability-Control
 
 ## Overview
-This repository contains the MATLAB simulations and analysis for a project on controlling and stabilizing nonlinear systems. The tasks involve converting a dynamic system into state-space form, verifying passivity, implementing a feedback controller, and exploring system stability. Due to university regulations, the solutions provided are theoretical models, and assignment-specific validations have not been tested.
+This repository contains the MATLAB simulations and analysis for a project on controlling and stabilizing nonlinear systems. The tasks involve converting a dynamic system into state-space form, verifying passivity, implementing a feedback controller, and exploring system stability.
 
 ## Coursework Questions
 
